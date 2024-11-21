@@ -10,15 +10,8 @@ word3 =
 
 # Use string concatenation to combine the variables and print the phrase
 _____(_________)
-'''
 
-# using variables
-word1 = "Coding" 
-word2 = "is "
-word3 = "Cool"
-print(word1)
-print(word2)
-print(word3)
+'''
 
 # using string concatenation
 word1 = "Coding "
@@ -30,5 +23,3 @@ word1 = "Coding"
 word2 = "is"
 word3 = "Cool"
 print(word1, word2, word3)
-
-print('Coding ' + 'is ' + 'Cool') 
